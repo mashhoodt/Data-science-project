@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/training/data/train
+val: /content/drive/MyDrive/training/data/valid
+nc: 1
+names: ['orange']
